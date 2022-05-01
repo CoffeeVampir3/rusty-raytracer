@@ -56,7 +56,7 @@ fn main() {
                 -1.0, 
                 Box::new(
                         Dielectric::new(
-                            0.9,
+                        0.9,
                         v3::new(1.0, 1.0, 1.0),
                         ))));
 
